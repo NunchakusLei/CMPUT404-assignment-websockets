@@ -26,6 +26,7 @@ freetests.py is LICENSE'D under a BSD-like license:
 From ws4py
 
 Copyright (c) 2011-2014, Sylvain Hellegouarch, Abram Hindle
+Copyright (c) 2017, Chenrui Lei
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -57,3 +58,9 @@ Contributors
 
 * Mark Galloway
 * Abram Hindle
+* Chenrui Lei
+
+Reference Sources
+================
+
+WebSocketsExamples: https://github.com/abramhindle/WebSocketsExamples
